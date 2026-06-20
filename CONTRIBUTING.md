@@ -1,0 +1,1 @@
+Initial contributing guidelines for the project.
